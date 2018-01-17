@@ -1,0 +1,11 @@
+PRODUCT__C,PRICE__C,UOMCODE__C,CURRENCYCODE__C,ACCOUNT__C,ACCOUNTSEGMENT__C,STARTDATE__C,ENDDATE__C
+Testproduct1,500,EA,USD,,,1/6/2013,15/6/2013
+Testproduct1,200,EA,USD,,,20/6/2013,30/6/2013
+Testproduct1,100,EA,USD,,,10/6/2013,25/6/2013
+Testproduct2,500,EA,USD,Acme,East-Large,1/6/2013,15/6/2013
+Testproduct2,200,EA,USD,Acme,East-Large,20/6/2013,30/6/2013
+Testproduct2,100,EA,USD,Acme,East-Large,10/6/2013,25/6/2013
+Testproduct3,420,EA,USD,Acme Company,,1/6/2013,15/6/2013
+Testproduct3,500,EA,USD,Acme Company,,20/6/2013,30/6/2013
+Testproduct3,300,EA,USD,Acme Company,,,
+Testproduct4,1000,EA,USD,,East-Large,1/6/2013,
